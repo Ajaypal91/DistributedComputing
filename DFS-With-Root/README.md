@@ -11,7 +11,7 @@ Make sure that JDK and JRE are installed in your system.
 3) Run the Main java file.</br>
 
 
-On executing the Main Program the program will ask to pick the root processor based on the ID. (Graph is image shown below).
+On executing the Main Program the program will ask to pick the root processor based on the ID. (Graph is based on the structure provided in the class / shown below).
 
 <h1>Graph Used For Program</h1>
 
